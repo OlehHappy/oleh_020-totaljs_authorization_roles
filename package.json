@@ -1,0 +1,19 @@
+{
+  "name": "oleh_020-totaljs_authorization_roles",
+  "version": "1.0.0",
+  "description": "should be installed `npm install total.js`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehHappy/oleh_020-totaljs_authorization_roles.git"
+  },
+  "author": "Oleh Daybov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlehHappy/oleh_020-totaljs_authorization_roles/issues"
+  },
+  "homepage": "https://github.com/OlehHappy/oleh_020-totaljs_authorization_roles#readme"
+}
